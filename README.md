@@ -14,11 +14,9 @@ This template ships with the main React and Storybook configuration files you'll
 
 1.  **Create the application.**
 
-    Use [degit](https://github.com/Rich-Harris/degit) to get this template.
-
     ```shell
-    # Clone the template
-    npx degit chromaui/intro-storybook-react-template taskbox
+    # Clone the repo
+    git clone YOUR_REPO_URL
     ```
 
 1.  **Install the dependencies.**
@@ -27,15 +25,11 @@ This template ships with the main React and Storybook configuration files you'll
 
     ```shell
     # Navigate to the directory
-    cd taskbox/
+    cd storybook-tutorial-code/
 
     # Install the dependencies
     yarn
     ```
-
-1.  **Open the source code and start editing!**
-
-    Open the `taskbox` directory in your code editor of choice and building your first component!
 
 1.  **Browse your stories!**
 
