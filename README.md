@@ -14,8 +14,6 @@ This template ships with the main React and Storybook configuration files you'll
 
 1.  **Create the application.**
 
-    Use [degit](https://github.com/Rich-Harris/degit) to get this template.
-
     ```shell
     # Clone the repo
     git clone YOUR_REPO_URL
